@@ -10,5 +10,5 @@
       "size": "free"
     }
   },
-  "env": {"HSID": {}, "SSID": {}, "SID": {}, "TRACKER_USERNAME": {"value": "Unnamed"}}
+  "env": {"HSID": {}, "SSID": {}, "SID": {}, "TRACKER_USERNAME": {"value": "Unnamed-Heroku"}}
 }
