@@ -1,7 +1,8 @@
 {
   "name": "YTCC-Archive",
-  "description": "This app archives published and draft community-contributed captioning, descriptions, and titles for YouTube videos as well as credits for published captions. For the HSID, SSID, and SID values, please create a test Google account in a new browser profile (so the cookies aren't associated with your primary Google account), visit youtube.com, and extract those respective cookie values. These cookies are required because YouTube requires users to log in with any account to access the community-contributed captions and metadata editor. TRACKER_USERNAME refers to the name that appears on the [dashboard](https://tracker.archiveteam.org/ext-yt-communitycontribs/).",
+  "description": "This app archives published and draft community-contributed captioning, descriptions, and titles for YouTube videos as well as credits for published captions. For the HSID, SSID, and SID values, please create a test Google account in a new browser profile (so the cookies aren't associated with your primary Google account), visit youtube.com, and extract those respective cookie values. These cookies are required because YouTube requires users to log in with any account to access the community-contributed captions and metadata editor. TRACKER_USERNAME refers to the name that appears on the dashboard.",
   "repository": "https://github.com/Data-Horde/ytcc-archive-heroku",
+  "website": "https://tracker.archiveteam.org/ext-yt-communitycontribs/",
   "buildpacks": [{"url": "heroku/python"}],
   "logo": "https://i0.wp.com/datahorde.org/wp-content/uploads/2020/04/DataHorde_Logo_2.png?fit=2331%2C2349&ssl=1",
   "formation": {
